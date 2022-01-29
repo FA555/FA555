@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://camo.githubusercontent.com/08e0b7b55822fa607647ed4ca259c0bcf904aaaa8a1b72d095d3de7958cc9b97/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d47697450696e6b526162626974267468656d653d6461726b2673686f775f69636f6e733d74727565)
+[![fa_555's stats @Anurag](https://github-readme-stats.vercel.app/api?username=fa555&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
