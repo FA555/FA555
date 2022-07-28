@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - Here's how to reach me:
   - QQ: 591752976
   - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com)
+- Websites:
+  - Check [My Blog](https://fa555.github.io)
 
 ---
 
