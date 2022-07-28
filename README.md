@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, fa_555 there!
 
 <!--
 **FA555/FA555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![fa_555's stats @Anurag](https://github-readme-stats.vercel.app/api?username=fa555&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+- I'm fa_555 (a.k.a. Wu Fa), a student at [SCS](https://scs.bupt.edu.cn), Beijing University of Posts and Telecommunications.
+- Formerly a competitive programmer, thus familiar with C++ (mainly STL).
+- Currently learning Rust. Not a developer yet, but looking forward to be.
+- Glad to participate in the composition of guidelines and instructions for freshmen.
+- Here's how to reach me:
+  - QQ: 591752976
+  - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com)
+
+---
+
+### Stats
+
+[![fa_555's Github Stats @Anurag](https://github-readme-stats.vercel.app/api?username=fa555&show_icons=true&theme=vue)](https://github.com/FA555)
+
+[![fa_555's Top Langs @Anurag](https://github-readme-stats.vercel.app/api/top-langs/?username=fa555&layout=compact)](https://github.com/FA555)
