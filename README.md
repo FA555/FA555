@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - QQ: 591752976
   - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com)
 - Websites:
-  - Check [My Blog](https://fa555.github.io)
+  - [My Blog](https://fa555.github.io) (Some contents may be outdated though)
 
 ---
 
