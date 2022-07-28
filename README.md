@@ -29,4 +29,12 @@ Here are some ideas to get you started:
 
 [![fa_555's Github Stats @Anurag](https://github-readme-stats.vercel.app/api?username=fa555&show_icons=true&theme=vue)](https://github.com/FA555)
 
+<!--
+
+<a href="https://github.com/FA555">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie0129&theme=vue&card_width=445&layout=compact&hide=html" />
+</a>
+
 [![fa_555's Top Langs @Anurag](https://github-readme-stats.vercel.app/api/top-langs/?username=fa555&layout=compact)](https://github.com/FA555)
+
+-->
