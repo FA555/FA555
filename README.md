@@ -1,4 +1,4 @@
-### 👋 Hi, fa_555 there!
+### 👋 Hey there!
 
 <!--
 **FA555/FA555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - Glad to participate in the composition of guidelines and instructions for freshmen. (?)
 -->
 
-- I'm fa_555 (a.k.a. Wu FA or Artve Flina), a junior [majoring in](https://github.com/ArtveFlinaInBupt) Computer Science at Beijing University of Posts and Telecommunications.
+- I'm fa_555 (a.k.a. Wu Fa or Artve Flina), a junior majoring in Computer Science at Beijing University of Posts and Telecommunications.
+  - Intra-curricular project and resource compilation at [this organisation](https://github.com/ArtveFlinaInBupt).
 - Formerly a competitive programmer. Familiar with C++, Rust, and Python.
 - Probably not a developer yet, but looking forward to be.
 - How to reach me:
