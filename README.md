@@ -19,14 +19,17 @@ Here are some ideas to get you started:
 
 - I'm fa_555 (a.k.a. Wu Fa or Artve Flina), a junior majoring in Computer Science at Beijing University of Posts and Telecommunications.
   - Intra-curricular project and resource compilation at [this organisation](https://github.com/ArtveFlinaInBupt).
-- Formerly a competitive programmer. Familiar with C++, Rust, and Python.
+- Formerly a competitive programmer.
 - Probably not a developer yet, but looking forward to be.
+- Tech stack
+  - Familiar: C++, Rust, Python, C / Unix-like / Math, Algorithms / LaTeX, Typst, Typesetting
+  - Learning: Backend development / JavaScript / Kotlin / Swift, SwiftUI / App development
 - How to reach me:
   - QQ: 0x23456f10
-  - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com)
+  - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com) / [fa_555@bupt.edu.cn](mailto:fa_555@bupt.edu.cn)
 - And websites:
   - [My Blog](https://blog.fa555.tech) (Most contents are composed when I was in high school and hence outdated)
-  - Personal website under construction!
+  <!-- - Personal website under construction! -->
 
 ---
 
