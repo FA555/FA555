@@ -25,8 +25,9 @@ Here are some ideas to get you started:
   - Familiar: C++, Rust, Python, C / Unix-like / Math, Algorithms / LaTeX, Typst, Typesetting
   - Learning: Backend development / JavaScript / Kotlin / Swift, SwiftUI / App development
 - How to reach me:
-  - QQ: 0x23456f10
-  - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com) / [fa_555@bupt.edu.cn](mailto:fa_555@bupt.edu.cn)
+  - Temporarily removed due to some reasons.
+  <!-- - QQ: 0x23456f10 -->
+  <!-- - Email: [fa_555@foxmail.com](mailto:fa_555@foxmail.com) / [fa_555@bupt.edu.cn](mailto:fa_555@bupt.edu.cn) -->
 - And websites:
   - [My Blog](https://blog.fa555.tech) (Most contents are composed when I was in high school and hence outdated)
   <!-- - Personal website under construction! -->
